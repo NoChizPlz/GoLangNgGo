@@ -37,4 +37,5 @@ func main() {
 	fmt.Println(arr9)
 
 	fmt.Println(len(arr8))
+
 }
